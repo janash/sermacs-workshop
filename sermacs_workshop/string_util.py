@@ -5,6 +5,7 @@ Sample repository for MolSSI Workshop at SERMACS.
 Misc. string processing functions
 """
 
+
 def title_case(sentence):
     """
     Convert string to title case.
